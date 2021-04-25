@@ -9,7 +9,7 @@ mapData 是一个对象映射函数，功能是用语义化的配置来对数据
 ## 安装
 
 ```bash
-npm i @u10/map-data
+npm i @udock/map-data
 ```
 
 ## API

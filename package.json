@@ -1,6 +1,6 @@
 {
-  "name": "@u10/map-data",
-  "version": "0.1.2",
+  "name": "@udock/map-data",
+  "version": "2.0.2",
   "main": "dist/index.js",
   "files": [
     "dist"
